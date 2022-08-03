@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/Controller/C_loadListFriend.java=UTF-8
+encoding//src/main/java/Controller/C_search.java=UTF-8
+encoding//src/main/java/Controller/C_sendmessage.java=UTF-8
+encoding//src/main/java/Model/BO/GroupBO.java=UTF-8
+encoding//src/main/java/Model/BO/MessageBO.java=UTF-8
+encoding//src/main/java/Model/DAO/GroupDAO.java=UTF-8
+encoding//src/main/java/Model/DAO/LoginDAO.java=UTF-8
+encoding//src/main/java/Model/DAO/MessageDAO.java=UTF-8
+encoding//src/main/webapp/login.jsp=UTF-8
